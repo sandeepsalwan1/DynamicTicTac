@@ -1,1 +1,3 @@
 # DynamicTicTac
+
+![Demo](./dynamic.png)

@@ -1,4 +1,4 @@
-package cs3500.tictactoe;
+package tictactoe;
 import javax.swing.*;
 
 public class DynamicTicTacToe {

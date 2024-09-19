@@ -1,4 +1,5 @@
-package cs3500.tictactoe;import javax.swing.*;
+package tictactoe;
+import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
